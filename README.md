@@ -1,1 +1,1 @@
-# WooCommerce Donor Plugin
+# Plugin Wordpress template
